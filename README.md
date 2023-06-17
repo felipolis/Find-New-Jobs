@@ -1,14 +1,11 @@
-# Expo Router Example
+# Find Jobs Opportunities
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+![image](https://github.com/felipolis/Find-New-Jobs/blob/main/layouts/home.png?raw=true)
 
-## 🚀 How to use
+![image](https://github.com/felipolis/Find-New-Jobs/blob/main/layouts/about.png?raw=true)
 
-```sh
-npx create-expo-app -e with-router
-```
+![image](https://github.com/felipolis/Find-New-Jobs/blob/main/layouts/qualifications.png?raw=true)
 
-## 📝 Notes
+![image](https://github.com/felipolis/Find-New-Jobs/blob/main/layouts/responsabilities.png?raw=true)
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+![image](https://github.com/felipolis/Find-New-Jobs/blob/main/layouts/search.png?raw=true)
